@@ -20,3 +20,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+# 4 - curl para a simulação
+```
+curl --request GET \
+  --url http://localhost:8080/
+```
